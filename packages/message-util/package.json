@@ -1,0 +1,13 @@
+{
+  "name": "@wisekingdom/message-util",
+  "version": "1.1.0",
+  "description": "TODO: > Description",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Test\""
+  },
+  "author": "wisekingdom",
+  "license": "MIT"
+}
